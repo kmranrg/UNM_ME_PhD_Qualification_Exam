@@ -71,3 +71,6 @@ Exam preparation notes for UNM Mechanical Engineering PhD Qualification Exam
 - [Fall 2016](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_15_Fall_2016.pdf)
 - [2020](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_16_2020.pdf)
 - [Fall 2018](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_17_Fall_2018.pdf)
+
+## Author 😊
+[Kumar Anurag](https://kmranrg.com/)
