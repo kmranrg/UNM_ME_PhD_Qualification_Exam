@@ -1,20 +1,28 @@
 # UNM_ME_PhD_Qualification_Exam
 Exam preparation notes for UNM Mechanical Engineering PhD Qualification Exam
 
-## **Mathematics**
+## **Dynamics**
 
 #### Basics
-- [Invert the matrix](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Maths_01_Invert_the_Matrix.pdf)
-- [Basics of differentiation and integration](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Maths_02_Differentiation_and_Integration_Basics.pdf)
-- [Second Order Differential Equations](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Maths_04_Second_Order_Differential_Equations.pdf)
+- [Rotational Motion Basics](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_01_Rotational_Motion_Basics.pdf)
+- [Angular Acceleration, Radial Acceleration](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_02_Angular_Acceleration_Radial_Acceleration.pdf)
+- [Torque](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_03_Torque.pdf)
+- [Inertia](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_04_Inertia.pdf)
+- [Parallel Axis Theorem](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_05_Parallel_Axis_Theorem.pdf)
+- [Angular Momentum](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_06_Angular_Momentum.pdf)
+- [Angular Impulse](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_07_Angular_Impulse.pdf)
+- [Constraint Motion Problems](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_08_Constraint_Motion.pdf)
+- [Rotational Kinetic Energy Examples](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_11_Rotational_Kinetic_Energy_Examples.pdf)
+- [Rotational Power, Work, Energy](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_12_Rotational_Power_Work_Energy.pdf)
+- [Work Done by a Constant Torque](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_13_Work_Done_by_a_Constant_Torque.pdf)
 
 #### Exams
-- [Fall 2018](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Maths_03_Fall_2018.pdf)
-- [Spring 2019](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Maths_05_Spring_2019.pdf)
-- [2021](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Maths_06_2021.pdf)
-- [2022](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Maths_07_2022.pdf)
-- [2020](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Maths_08_2020.pdf)
-- [Fall 2019](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Maths_09_Fall_2019.pdf)
+- [Spring 2016](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_09_Spring_2016.pdf)
+- [Fall 2017](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_10_Fall_2017.pdf)
+- [Spring 2019](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_14_Spring_2019.pdf)
+- [Fall 2016](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_15_Fall_2016.pdf)
+- [2020](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_16_2020.pdf)
+- [Fall 2018](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_17_Fall_2018.pdf)
 
 ## **Controls**
 
@@ -49,28 +57,20 @@ Exam preparation notes for UNM Mechanical Engineering PhD Qualification Exam
 - [2021](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Controls_25_2021.pdf)
 - [2022](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Controls_27_2022.pdf)
 
-## **Dynamics**
+## **Mathematics**
 
 #### Basics
-- [Rotational Motion Basics](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_01_Rotational_Motion_Basics.pdf)
-- [Angular Acceleration, Radial Acceleration](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_02_Angular_Acceleration_Radial_Acceleration.pdf)
-- [Torque](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_03_Torque.pdf)
-- [Inertia](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_04_Inertia.pdf)
-- [Parallel Axis Theorem](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_05_Parallel_Axis_Theorem.pdf)
-- [Angular Momentum](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_06_Angular_Momentum.pdf)
-- [Angular Impulse](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_07_Angular_Impulse.pdf)
-- [Constraint Motion Problems](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_08_Constraint_Motion.pdf)
-- [Rotational Kinetic Energy Examples](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_11_Rotational_Kinetic_Energy_Examples.pdf)
-- [Rotational Power, Work, Energy](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_12_Rotational_Power_Work_Energy.pdf)
-- [Work Done by a Constant Torque](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_13_Work_Done_by_a_Constant_Torque.pdf)
+- [Invert the matrix](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Maths_01_Invert_the_Matrix.pdf)
+- [Basics of differentiation and integration](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Maths_02_Differentiation_and_Integration_Basics.pdf)
+- [Second Order Differential Equations](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Maths_04_Second_Order_Differential_Equations.pdf)
 
 #### Exams
-- [Spring 2016](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_09_Spring_2016.pdf)
-- [Fall 2017](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_10_Fall_2017.pdf)
-- [Spring 2019](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_14_Spring_2019.pdf)
-- [Fall 2016](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_15_Fall_2016.pdf)
-- [2020](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_16_2020.pdf)
-- [Fall 2018](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Dynamics_17_Fall_2018.pdf)
+- [Fall 2018](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Maths_03_Fall_2018.pdf)
+- [Spring 2019](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Maths_05_Spring_2019.pdf)
+- [2021](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Maths_06_2021.pdf)
+- [2022](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Maths_07_2022.pdf)
+- [2020](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Maths_08_2020.pdf)
+- [Fall 2019](https://github.com/kmranrg/UNM_ME_PhD_Qualification_Exam/blob/main/Maths_09_Fall_2019.pdf)
 
 ## Author 😊
 [Kumar Anurag](https://kmranrg.com/)
